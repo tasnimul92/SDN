@@ -1,5 +1,5 @@
 # About  SDNRand.py
-For emulating real network scenario for various machine learning tasks we need packet flow from different source and destinations of random interval, protocol , packet size etc. 
+In practice, to emulate real network scenarios for SDN applications, it is necessary to generate packets from different sources and destinations in random interval, protocol , packet size etc.
 
 ## Installation
 ```bash
@@ -10,6 +10,6 @@ python SDNRand.py protocol_name(i.e. udp/icmp/tcp-timestamp) destination(i.e. 10
 
 ```
 # About Qlearningconvergence.py
-This is code is part of my Research Project. PDF file of that will be uploaded soon. Emulation of Software Defined Network was done in ONOS. 
+This is code is part of my Research Project. PDF file of that will be uploaded soon. Emulation of Software-Defined Network was done in ONOS. 
 ## Demo Video
 https://youtu.be/mEvyIJVhWmM
